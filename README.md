@@ -9,6 +9,6 @@ Do not believe the memory size printed on the flash device. Read the 24 bit JEDE
 
 Anyways, if you're interested, you can make it better, and I am open to learn. But I just did it seperately, so I can integrate it in another project where simple driver was enough.
 
-##Author
+## Author
 Jagakishan S.K
 
